@@ -21,7 +21,6 @@ public class Assento {
         return estado;
     }
     
-    // Método auxiliar implícito necessário para a Sessão buscar o assento
     public int getNumero() {
         return numero;
     }
